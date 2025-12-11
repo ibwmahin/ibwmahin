@@ -2,7 +2,7 @@
 ### Lead Developer | TypeScript · Next.js · AI Automation
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ibwmahin&label=Profile%20views&color=0e75b6&style=flat)  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ibwmahin&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
