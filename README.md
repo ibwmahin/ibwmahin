@@ -1,46 +1,118 @@
-# Hi 👋, I'm Abdulla Al Mahin
+<!-- Minimalist, professional, dark-mode, animated GitHub Profile README -->
+<!-- Paste this entire file into: ibwmahin/ibwmahin/README.md -->
 
-### Creative Developer
+<!-- Animated SVG header (dark) -->
+<p align="center">
+  <svg width="100%" height="160" viewBox="0 0 1200 160" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Abdulla Al Mahin">
+    <defs>
+      <linearGradient id="g" x1="0" x2="1">
+        <stop offset="0%"  stop-color="#0f1724">
+          <animate attributeName="stop-color" values="#0f1724;#08132a;#0f1724" dur="6s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#0b1220">
+          <animate attributeName="stop-color" values="#0b1220;#07101a;#0b1220" dur="6s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+      <filter id="f" x="-20%" y="-40%" width="140%" height="200%">
+        <feGaussianBlur stdDeviation="40" result="b"/>
+        <feColorMatrix in="b" type="matrix" values="0 0 0 0 0.05  0 0 0 0 0.35  0 0 0 0 0.6  0 0 0 0.6 0" />
+      </filter>
+    </defs>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibwmahin&label=Profile views&color=0e75b6&style=flat" alt="ibwmahin" /> </p>
+    <!-- background -->
+    <rect width="1200" height="160" fill="url(#g)"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibwmahin" alt="ibwmahin" /></a> </p>
+    <!-- animated blobs -->
+    <g filter="url(#f)" opacity="0.9">
+      <circle cx="180" cy="80" r="70" fill="#0ea5a4">
+        <animate attributeName="cx" dur="10s" values="120;220;140;180" repeatCount="indefinite"/>
+        <animate attributeName="cy" dur="8s" values="60;100;70;80" repeatCount="indefinite"/>
+        <animate attributeName="r"  dur="7s" values="60;90;70;60" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="620" cy="60" r="90" fill="#7c3aed">
+        <animate attributeName="cx" dur="12s" values="580;660;600;620" repeatCount="indefinite"/>
+        <animate attributeName="cy" dur="9s" values="40;80;60;40" repeatCount="indefinite"/>
+        <animate attributeName="r"  dur="8s" values="80;110;90;80" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1000" cy="90" r="60" fill="#06b6d4">
+        <animate attributeName="cx" dur="11s" values="960;1040;1000;980" repeatCount="indefinite"/>
+        <animate attributeName="cy" dur="7s" values="70;110;90;70" repeatCount="indefinite"/>
+        <animate attributeName="r"  dur="9s" values="50;80;60;50" repeatCount="indefinite"/>
+      </circle>
+    </g>
 
-- 🔭 I'm currently working on **A NextJs Project**
-
-- 🌱 I'm currently learning **Three Js**
-
-- 👯 I'm looking to collaborate on **Any Open Source, Freelance & Remote Job**
-
-- 🤝 I'm looking for help with **Learn Advanced UX Desing. **
-
-- 💬 Ask me about **React, NextJs, node-js**
-
-- 📫 How to reach me **ibwmahin@gmail.com**
-
-- ⚡ Fun fact **I AM  BAT MAN 🦇 haha**
-
-- 👨‍💻 All of my projects are available at **[https://ibwmahin.github.io/](https://ibwmahin.github.io/)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/ibwmahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ibwmahin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ibwmahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibwmahin" height="30" width="40" /></a>
-<a href="https://codepen.io/ibwmahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ibwmahin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ibwmahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ibwmahin" height="30" width="40" /></a>
-<a href="https://fb.com/ibwmahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ibwmahin" height="30" width="40" /></a>
-<a href="https://instagram.com/ibwmahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibwmahin" height="30" width="40" /></a>
-<a href="https://twitter.com/ibwmahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibwmahin" height="30" width="40" /></a>
-<a href="https://youtube.com/ibwmahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ibwmahin" height="30" width="40" /></a>
-<a href="https://leetcode.com/ibwmahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ibwmahin" height="30" width="40" /></a>
+    <!-- text -->
+    <g fill="#e6eef8" font-family="Inter, Helvetica, Arial, sans-serif">
+      <text x="48" y="58" font-size="22" font-weight="600">Abdulla Al Mahin</text>
+      <text x="48" y="90" font-size="12" fill="#9fb0c8">Lead Developer • TypeScript · Next.js · AI Automation</text>
+    </g>
+  </svg>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibwmahin&show_icons=true&locale=en&layout=compact" alt="ibwmahin" /></p>
+<!-- Top line -->
+<p align="center">
+  <sub style="color:#9fb0c8">Minimal · Professional · Dark</sub>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibwmahin&show_icons=true&locale=en" alt="ibwmahin" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibwmahin&" alt="ibwmahin" /></p>
+## About
+- Lead Developer at **DigitalPathways** — building reliable, automated systems and clean UX.
+- Focus: **TypeScript**, **Next.js**, **Tailwind**, **Prisma**, **AWS**, and automation pipelines.
+- Open to: collaborations, freelance, and remote engineering roles.
 
+---
+
+## Quick links
+[Portfolio → https://ibwmahin.github.io](https://ibwmahin.github.io) · [Email → ibwmahin@gmail.com](mailto:ibwmahin@gmail.com)
+
+---
+
+## Social
+<p>
+  <a href="https://github.com/ibwmahin" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="28" height="28" alt="github" /></a>
+  <a href="https://linkedin.com/in/ibwmahin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28" alt="linkedin" /></a>
+  <a href="https://twitter.com/ibwmahin" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="28" height="28" alt="twitter" /></a>
+  <a href="https://instagram.com/ibwmahin" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="28" height="28" alt="instagram" /></a>
+</p>
+
+---
+
+## Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,prisma,aws,vercel,git" height="40" alt="skills" />
+</p>
+
+---
+
+## Live stats
+<p>
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibwmahin&layout=compact&theme=dark&hide_border=true" alt="top languages" height="140"/>
+  <!-- Summary -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ibwmahin&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="github stats" height="140"/>
+  <!-- Streak (fallback to demo host) -->
+  <img src="https://streak-stats.demolab.com?user=ibwmahin&theme=dark&hide_border=true" alt="streak stats" height="140"/>
+</p>
+
+---
+
+## Recent work
+- **Next.js SaaS template** — multi-tenant auth, billing, and infra (TypeScript + Prisma).
+- **Automation engine** — serverless ETL and scheduler (AWS Lambda + Step Functions).
+- **Design system** — component library + Storybook + visual regression tests.
+
+---
+
+## Footer (animated subtle underline)
+<p align="center">
+  <svg width="220" height="14" viewBox="0 0 220 14" xmlns="http://www.w3.org/2000/svg" role="img">
+    <rect x="0" y="6" width="220" height="2" rx="1" fill="#1f2937"/>
+    <rect id="runner" x="-60" y="6" width="60" height="2" rx="1" fill="#06b6d4">
+      <animate attributeName="x" from="-60" to="220" dur="2.6s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+  <sub style="color:#9fb0c8">Last updated: <!--AUTO--> <!-- replace with commit date if desired --></sub>
+</p>
